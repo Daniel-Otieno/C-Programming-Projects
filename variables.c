@@ -4,7 +4,7 @@ int main() {
     // Declare variables
     int age = 28;
     float height = 6.0;
-    char initial = 'D';
+    char initial = 'O';
     
     // Print the variables
     printf("Age: %d\n", age);         // %d for integers
